@@ -1,0 +1,41 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  EmployeeId: 
+  LastName: MyString
+  FirstName: MyString
+  Title: MyString
+  TitleOfCourtesy: MyString
+  BirthDate: 2020-09-22
+  HireDate: 2020-09-22
+  Address: MyString
+  City: MyString
+  Region: MyString
+  PostalCode: MyString
+  Country: MyString
+  HomePhone: MyString
+  Extension: MyString
+  Photo: MyString
+  Notes: MyString
+  ReportsTo: MyString
+  PhotoPath: MyString
+
+two:
+  EmployeeId: 
+  LastName: MyString
+  FirstName: MyString
+  Title: MyString
+  TitleOfCourtesy: MyString
+  BirthDate: 2020-09-22
+  HireDate: 2020-09-22
+  Address: MyString
+  City: MyString
+  Region: MyString
+  PostalCode: MyString
+  Country: MyString
+  HomePhone: MyString
+  Extension: MyString
+  Photo: MyString
+  Notes: MyString
+  ReportsTo: MyString
+  PhotoPath: MyString

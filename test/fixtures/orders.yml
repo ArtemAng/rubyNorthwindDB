@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  OrderId: 
+  CustomerId: 
+  EmployeeId: 
+  OrderDate: 2020-09-22
+  RequiredDate: 2020-09-22
+  ShippedDate: 2020-09-22
+  ShipVia: MyString
+  Freight: 
+  ShipName: MyString
+  ShipAddress: MyString
+  ShipCity: MyString
+  ShipRegion: MyString
+  ShipPostalCode: 
+  ShipCountry: MyString
+
+two:
+  OrderId: 
+  CustomerId: 
+  EmployeeId: 
+  OrderDate: 2020-09-22
+  RequiredDate: 2020-09-22
+  ShippedDate: 2020-09-22
+  ShipVia: MyString
+  Freight: 
+  ShipName: MyString
+  ShipAddress: MyString
+  ShipCity: MyString
+  ShipRegion: MyString
+  ShipPostalCode: 
+  ShipCountry: MyString
